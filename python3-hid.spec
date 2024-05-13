@@ -1,5 +1,5 @@
 Name:           python3-hid
-Version:        {{{ git_dir_version }}}
+Version:        1000.{{{ git_dir_version }}}
 Release:        1%{?dist}
 Summary:        hidapi bindings in ctypes
 License:        MIT
